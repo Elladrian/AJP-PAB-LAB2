@@ -14,7 +14,7 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
-        static string connectionString = @"Data Source=LOCALHOST\LOCALDATABASE;Initial Catalog=AJPPABLAB2;Persist Security Info=True;User ID=Administrator;Password=cisco123!L";
+        static string connectionString = @"Data Source=GORWPC0008;Initial Catalog=AJPPABLAB2;Persist Security Info=True;User ID=Administrator;Password=cisco123!L";
 
         public Form1()
         {
